@@ -1,2 +1,11 @@
-# academic-portfolio
-The main purpose of this repostory is to sync all my University study resources and assignments to make it accessable publically.
+# Acadamic Portfolio
+
+Welcome to my personal university repository! 
+This repo contains my assignments, presentations, and study notes for my degree.
+
+## Structure
+- **Year_1/** → All courses from first year
+- **Extras/** → Reference materials, research papers, and templates
+
+## Purpose
+To maintain all my academic work in one safe, version-controlled place and to make it accessable publically.
